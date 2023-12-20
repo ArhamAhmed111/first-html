@@ -1,0 +1,19 @@
+header{
+    text-align: center;
+}
+.wellcome{
+    border-width: 2px;
+border-style: solid;
+border-color: black;
+border-radius: 10px;
+    background-color: blue;
+    color: white;
+    height: fit-content;
+    width: 300px;
+    margin-left: 520px;
+    
+}
+h1{
+    text-decoration:underline;
+    font-style: italic;
+}
